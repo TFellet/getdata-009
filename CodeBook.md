@@ -37,7 +37,7 @@ The 180 observations comes from the combinaisons of the 6 possibles activities f
 
 * tidy$subject (1st column) contains the ID of the subject (from 1 to 30)
 * tidy$activity (2nd column) contains the activity (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING)
-* tidy[,c(3:81)] (last 79 columns) contains the mean of each mesurement about the mean or the standard deviation selected from the original dataset.
+* the last 79 columns contains the mean of each mesurement about the mean or the standard deviation selected from the original dataset.
 
 The list of all the mesurement about the mean or the standard deviation is available just below:
 
